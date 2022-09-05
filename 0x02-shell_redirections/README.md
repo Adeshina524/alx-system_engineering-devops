@@ -21,3 +21,7 @@ task 19
 task 20
 task 21
 task 22
+task 23
+task 24
+task 25
+task 26
